@@ -6,6 +6,4 @@ category: blog
 
 Hello World 你好世界
 
-```javascript
-console.log('hello world')
-```
+    console.log('hello world')
